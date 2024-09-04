@@ -19,6 +19,7 @@ redimensionner vos images comme vous voulez...
 
 # mise à jour :
 Mettez a jour l'application...
+ACTUELLEMNT INDISPONIBLE !!!
 
    # ATTENTION :
     fonctionnalité NON disponible pour la version actuel.

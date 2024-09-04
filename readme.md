@@ -28,3 +28,4 @@ ACTUELLEMNT INDISPONIBLE !!!
 Modifiez les paramètre de cette application... Comme le thème et bientot la langue de traduction par défaut.
 
 # des citations :
+Regardez des citations

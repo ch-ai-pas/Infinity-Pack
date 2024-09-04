@@ -1,0 +1,33 @@
+{
+    "version": "0.0.10",
+    "theme": "superhero",
+    "langue": "english",
+    "liste des themes": [
+        "cerculean",
+        "cosmo",
+        "cyborg",
+        "darkly",
+        "flatly",
+        "journal",
+        "litera",
+        "lumen",
+        "minty",
+        "morph",
+        "pulse",
+        "sandstone",
+        "simplex",
+        "solar",
+        "superhero",
+        "united",
+        "vapor",
+        "yeti"
+    ],
+    "liste citation": [
+        "    I'm human \nSo I'm a demon.",
+        "The Demon is human\nand the human is Demon",
+        "Tu n'as qu'une vie \nTe loupe pas."
+    ],
+    "citation": 3,
+    "on off citation": 0,
+    "icone": "\\logo.ico"
+}

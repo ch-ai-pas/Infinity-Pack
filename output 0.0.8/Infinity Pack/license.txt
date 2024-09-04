@@ -1,0 +1,19 @@
+
+--- LICENSE---
+
+Cette application NE doit PAS être modifier...
+Cette application NE doit PAS être vendu...
+Cette application PEUT être utilisé pour un usage privé ou publique...
+Merci
+
+- Utilise des modules -
+
+ttkbootstrap (UI)
+google traduction (traduction)
+tkinter (UI)
+auto-py-to-exe (executable)
+pillow (UI)
+os (os)
+sys (systeme)
+json (dictionnaire)
+infinity_module (mon module perso)

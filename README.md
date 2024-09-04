@@ -19,6 +19,7 @@ redimensionner vos images comme vous voulez...
 
 # mise à jour :
 Mettez a jour l'application...
+ACTUELLEMNT INDISPONIBLE !!!
 
    # ATTENTION :
     fonctionnalité NON disponible pour la version actuel.
@@ -27,3 +28,4 @@ Mettez a jour l'application...
 Modifiez les paramètre de cette application... Comme le thème et bientot la langue de traduction par défaut.
 
 # des citations :
+Regardez des citations
